@@ -1,6 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vitória-rabelo-santiago-48497b263)  
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Vitoria-Rabelo&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Rabelo&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
