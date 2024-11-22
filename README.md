@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hi! I'm Vitoria. Welcome to my Github:
 📚 I am studying Information Systems at the Federal University of Ceará. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vitória-rabelo-santiago-48497b263) 
