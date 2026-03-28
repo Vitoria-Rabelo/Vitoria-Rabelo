@@ -21,6 +21,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/vitoria-rabelo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/Vitoria-Rabelo/Vitoria-Rabelo/output/snake.svg" alt="Snake animation" />
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vitoria-Rabelo/Vitoria-Rabelo/output/snake.svg" alt="Snake animation" />
+</div>
