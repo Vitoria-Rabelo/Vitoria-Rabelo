@@ -19,4 +19,12 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a></p>
 <h2> Contact me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/vitória-rabelo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitoria-Rabelo/Vitoria-Rabelo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitoria-Rabelo/Vitoria-Rabelo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vitoria-Rabelo/Vitoria-Rabelo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>
