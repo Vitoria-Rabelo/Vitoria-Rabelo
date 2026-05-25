@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Vitória Rabelo</h1>
-  <p>Information System Student | Data Scientist | Computer Network Technical</p>
+  <p>Information Systems Student | Full Stack Developer | Data Scientist | Computer Network Technical</p>
 
   <h2>Languages and Tools I Use</h2>
 
