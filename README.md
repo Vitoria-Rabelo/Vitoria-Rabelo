@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner GIF Animado -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR3ZmMxY3MzYWR5M3Q5MTBlbG9idWl2N2hxYWZvdGZ5OXkxaXdnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy.gif" width="600" alt="Pixel Art Coding GIF" />
+  <!-- Banner Animado WebP -->
+  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.webp" width="600" alt="Pixel Art Coding" />
 
   <h1>Hi, I'm Vitória Rabelo 👋</h1>
   <p><strong>Information Systems Student | Full Stack Developer | Data Scientist | Computer Networks Technical</strong></p>
@@ -40,11 +40,10 @@
 
   ---
 
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 Activity</h3>
 
   <p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Rabelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Rabelo&layout=compact&theme=dracula&hide=html,css" alt="Linguagens mais usadas" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitoria-Rabelo&theme=dracula&hide_border=true" alt="Gráfico de Atividade" />
   </p>
 
 </div>
