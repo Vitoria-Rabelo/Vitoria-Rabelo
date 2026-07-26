@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif" width="450" alt="Pixel Art Coding GIF" style="border-radius: 8px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdnNms5dXN0ZjBraW1jcWhtbmdobm12ZzI2Z2k4bTZzcHd3YjdjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiIypruMVv8U5LAesK/giphy.gif" width="300" alt="Pixel Art Coding GIF" style="border-radius: 8px;" />
 
   <h1>Hi, I'm Vitória Rabelo 👋</h1>
   
