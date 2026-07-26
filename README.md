@@ -1,73 +1,56 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.webp">
-    <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif">
-    <!-- IMAGEM REDUZIDA E COM BORDAS ARREDONDADAS -->
-    <img alt="Vitoria's Lofi Workspace" src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif" width="300" style="border-radius: 15px;">
-  </picture>
-</p>
-
 <div align="center">
-  <!-- TÍTULO MAIS COMPACTO -->
-  <h3>Hi there, I'm Vitória Rabelo 🌠👋</h3>
-  <p><strong>Information Systems Student | Full Stack Developer | Data Scientist</strong></p>
-  <p>Crafting intelligent solutions & scalable systems from Brazil.</p>
 
-  <!-- BADGES DE CONTATO MINIMALISTAS E ALINHADAS -->
-  <p align="center">
+  <!-- GIF Lofi no topo -->
+  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif" width="450" alt="Pixel Art Coding GIF" style="border-radius: 8px;" />
+
+  <h1>Hi, I'm Vitória Rabelo 👋</h1>
+  
+  <p>Information Systems Student | Full Stack Developer | Data Scientist | Computer Network Technical</p>
+
+  <!-- Badges com espaçamento entre elas -->
+  <p>
     <a href="https://portfolio-vitoria-production.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/vitoria-rabelo" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:tec.vitoriarabelosantiago@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
+  <br />
+
+  <h2>Languages and Tools I Use</h2>
+
+  <!-- Tabela de ícones coloridos originais com espaçamento limpo -->
+  <table align="center">
+    <tr>
+      <td align="center" width="70"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="38" height="38" /></a></td>
+    </tr>
+    <tr>
+      <td align="center" width="70"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="38" height="38" /></a></td>
+      <td align="center" width="70"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="38" height="38" /></a></td>
+      <td align="center" width="70"></td>
+    </tr>
+  </table>
+
+  <br />
+
+  <h2>Activity</h2>
+  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitoria-Rabelo&theme=dracula&hide_border=true" alt="Gráfico de Atividade" />
+
 </div>
-
----
-
-<div align="center">
-  <h4>📖 About Me</h4>
-</div>
-
-<!-- TEXTO MAIS CONCISO -->
-<p align="center">
-Multifaceted tech professional bridging the gap between infrastructure and software. My focus is leveraging Data Science for smarter, full-stack applications.
-</p>
-
----
-
-<div align="center">
-  <h4>🛠️ Languages & Tools</h4>
-</div>
-
-<!-- TECNOLOGIAS EM GRUPOS COMPACTOS E UNIFICADOS -->
-<p align="center">
-  <strong>Programming:</strong> 
-  <img src="https://skillicons.dev/icons?i=python,go,react" alt="Core Programming" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>Data Science & AI:</strong> 
-  <img src="https://skillicons.dev/icons?i=pytorch,pandas,scikit_learn" alt="Data & AI" height="25" />
-</p>
-
-<p align="center">
-  <strong>Databases:</strong> 
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,mysql" alt="Databases" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>DevOps & Cloud:</strong> 
-  <img src="https://skillicons.dev/icons?i=aws,docker" alt="Cloud & DevOps" height="25" />
-</p>
-
----
-
-<div align="center">
-  <h4>📊 Activity</h4>
-</div>
-
-<!-- GRÁFICO REDUZIDO PARA NÃO DOMINAR A TELA -->
-<p align="center">
-  <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitoria-Rabelo&theme=dracula&hide_border=true&area=true" alt="Vitoria's Contribution Graph">
-</p>
