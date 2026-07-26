@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Animado WebP -->
-  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.webp" width="600" alt="Pixel Art Coding" />
+  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.webp" width="400" alt="Pixel Art Coding" />
 
   <h1>Hi, I'm Vitória Rabelo 👋</h1>
   <p><strong>Information Systems Student | Full Stack Developer | Data Scientist | Computer Networks Technical</strong></p>
