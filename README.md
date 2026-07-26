@@ -1,13 +1,11 @@
 <div align="center">
 
-  <!-- GIF Lofi no topo -->
-  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif" width="450" alt="Pixel Art Coding GIF" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif" width="300" alt="Pixel Art Coding GIF" style="border-radius: 8px;" />
 
   <h1>Hi, I'm Vitória Rabelo 👋</h1>
   
   <p>Information Systems Student | Full Stack Developer | Data Scientist | Computer Network Technical</p>
 
-  <!-- Badges com espaçamento entre elas -->
   <p>
     <a href="https://portfolio-vitoria-production.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -26,27 +24,24 @@
 
   <h2>Languages and Tools I Use</h2>
 
-  <!-- Tabela de ícones coloridos originais com espaçamento limpo -->
-  <table align="center">
-    <tr>
-      <td align="center" width="70"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="38" height="38" /></a></td>
-    </tr>
-    <tr>
-      <td align="center" width="70"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="38" height="38" /></a></td>
-      <td align="center" width="70"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="38" height="38" /></a></td>
-      <td align="center" width="70"></td>
-    </tr>
-  </table>
+
+  <p>
+    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a> &nbsp;
+    <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a> &nbsp;
+    <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a> &nbsp;
+    <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a> &nbsp;
+    <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a> &nbsp;
+    <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a> &nbsp;
+    <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="42" height="42" /></a>
+  </p>
+  <p>
+    <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a> &nbsp;
+    <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a> &nbsp;
+    <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a> &nbsp;
+    <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a> &nbsp;
+    <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a> &nbsp;
+    <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+  </p>
 
   <br />
 
