@@ -44,8 +44,4 @@
   </p>
 
   <br />
-
-  <h2>Activity</h2>
-  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitoria-Rabelo&theme=dracula&hide_border=true" alt="Gráfico de Atividade" />
-
 </div>
